@@ -28,6 +28,8 @@ A website that uses only HTML, CSS and JavaScript.
 * About
 * Contact
 
+![alt="moustache barbershop website"](https://github.com/YoannaPo/Moustache-Barbershop/blob/main/assets/moustache_barbershop_website.gif)
+
 ## Status
 Project is:  _in_progress_
 

@@ -17,6 +17,7 @@ The website is based on the layout I received in Figma
 
 ## General info
 A website that uses only HTML, CSS and JavaScript.
+I modified the received layout, and designed the logo and the entire brand identification. All the details are included in the Brand Book I prepared.
 
 ## Technologies
 * HTML
@@ -34,6 +35,8 @@ A website that uses only HTML, CSS and JavaScript.
 Project is:  _in_progress_
 
 ## Live
+https://yoannapo.github.io/Moustache-Barbershop/
+
 
 ## Room for Improvement
 

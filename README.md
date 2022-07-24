@@ -19,6 +19,29 @@ The website is based on the layout I received in Figma
 A website that uses only HTML, CSS and JavaScript.
 I modified the received layout, and designed the logo and the entire brand identification. All the details are included in the Brand Book I prepared.
 
+
+<h2 align="center">Brand Book</h2>
+<table bordercolor="#66b2b2">
+  
+  
+  <tr>
+      <td width="50%" valign="top">
+      <h3 align="center">Logotype - Logo Variations</h3>
+        <br />
+            <img src="https://github.com/YoannaPo/Moustache-Barbershop/blob/main/assets/Brand_Book1.png" width="100%" alt="scissors"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Brand Identification</h3>
+      <br />
+          <img src="https://github.com/YoannaPo/Moustache-Barbershop/blob/main/assets/Brand_Book2.png" width="100%" alt="backgrounds with barbes tools"/>
+      <br />
+        <p align="center">
+      </p>
+    </td>
+
+  </tr>
+</table>
+
 ## Technologies
 * HTML
 * CSS (BEM)

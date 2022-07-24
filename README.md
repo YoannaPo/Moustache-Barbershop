@@ -46,11 +46,26 @@ I modified the received layout, and designed the logo and the entire brand ident
       <h3 align="center">Fonts</h3>
         <br />
             <img src="https://github.com/YoannaPo/Moustache-Barbershop/blob/main/assets/Brand_Book3.png" width="100%" alt="scissors and fonts descriptions"/>
-    </td>
-    <td width="50%" valign="top">
+        </td>
+      <td width="50%" valign="top">
       <h3 align="center">Logo Use</h3>
       <br />
           <img src="https://github.com/YoannaPo/Moustache-Barbershop/blob/main/assets/Brand_Book4.png" width="100%" alt="scissors at different backgrounds"/>
+      <br />
+        <p align="center">
+      </p>
+      </td>
+  </tr>
+  <tr>
+      <td width="50%" valign="top">
+      <h3 align="center">Incorrect Use Of Backgrounds</h3>
+        <br />
+            <img src="https://github.com/YoannaPo/Moustache-Barbershop/blob/main/assets/Brand_Book5.png" width="100%" alt="scissors and backgrounds"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Incorrect Use Of Logo</h3>
+      <br />
+          <img src="https://github.com/YoannaPo/Moustache-Barbershop/blob/main/assets/Brand_Book6.png" width="100%" alt="scissors"/>
       <br />
         <p align="center">
       </p>

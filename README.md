@@ -72,6 +72,21 @@ I modified the received layout, and designed the logo and the entire brand ident
     </td>
 
   </tr>
+  <tr>
+      <td width="50%" valign="top">
+      <h3 align="center">Mock Ups</h3>
+        <br />
+            <img src="https://github.com/YoannaPo/Moustache-Barbershop/blob/main/assets/Brand_Book3.png" width="100%" alt="t-shirt with logo Moustache Barbershop, business card"/>
+        </td>
+      <td width="50%" valign="top">
+      <h3 align="center">Photos Used In This Brand Book</h3>
+      <br />
+          <img src="https://github.com/YoannaPo/Moustache-Barbershop/blob/main/assets/Brand_Book4.png" width="100%" alt="Unsplash authors list"/>
+      <br />
+        <p align="center">
+      </p>
+      </td>
+  </tr>
 
 
   

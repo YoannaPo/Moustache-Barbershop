@@ -138,7 +138,7 @@ li .navbar__container_menu_link a {
 
 .header {
     grid-area: h;
-   background-image: url("../assets/5bcg_2.svg");
+   background-image: url('../assets/5bcg_2.svg');
 }
 
 .header__inner {

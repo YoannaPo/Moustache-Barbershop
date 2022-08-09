@@ -438,4 +438,9 @@ figure {
         display: flex;
         flex-direction: column;
     }
+
+    .main_img {
+        width: 100%;
+        min-height: 40%;
+    }
 }

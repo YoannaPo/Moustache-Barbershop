@@ -172,7 +172,7 @@ li .navbar__container_menu_link a {
         flex-direction: column;
         justify-content: space-around;
         align-items: center;
-        flex-wrap: wrap;
+        /*flex-wrap: wrap;*/
     }
 
     .navbar__logo {
@@ -180,11 +180,18 @@ li .navbar__container_menu_link a {
         flex-direction: column;
         justify-content: space-around;
         align-self: center;
+        flex-basis: 20%;
         /*flex-wrap: wrap; */
+    }
 
+    .navbar__logoImg {
+        margin: 0 auto;
+        width: 50px;
+        height: 70px;
     }
 
     .navbar__list {
+        margin-top: 0;
         flex-wrap: wrap;
         align-items: center;
     }
@@ -208,7 +215,7 @@ li .navbar__container_menu_link a {
         /*flex-flow: column wrap;*/
         align-items: center;
         justify-content: space-evenly;
-        flex-basis: 49%;
+        flex-basis: 30%;
     }
 
     .navbar__listItem {

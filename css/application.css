@@ -439,8 +439,27 @@ figure {
         flex-direction: column;
     }
 
-    .main_img {
+
+    .main__heading {
+        margin-top: inherit;
+        position: absolute;
+    }
+    
+
+    .main__img {
         width: 100%;
         min-height: 40%;
+    }
+
+    .main__subheading {
+        margin-top: 1150px;
+    }
+
+    .hero-section__wrapper {
+        width: 65%;
+    }
+
+    .hero-section__first {
+        margin-top: 250px;
     }
 }

@@ -375,7 +375,8 @@ figure {
 
         display: flex;
         flex-direction: column;
-        justify-content: center;
+        justify-content: space-evenly;
+        align-items: center;
     }
 
     .hero-section__divider {
@@ -452,14 +453,28 @@ figure {
     }
 
     .main__subheading {
-        margin-top: 1150px;
-    }
+        margin-top: 1200px;
+    }    
 
     .hero-section__wrapper {
         width: 65%;
     }
 
     .hero-section__first {
-        margin-top: 250px;
+        margin-top: 350px;
+    }
+
+    .program__header {
+        margin-top: 1200px;
+        align-self: center;
+        justify-content: center;
+    }
+
+    .programText__wrapper {
+        margin-top: 50px;
+    }
+
+    .programText__supplement {
+        text-align: center;
     }
 }

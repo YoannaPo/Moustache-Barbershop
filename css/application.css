@@ -386,6 +386,11 @@ figure {
         flex-wrap: wrap;
     } */
 
+    .main__wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
 
 
 
@@ -425,5 +430,12 @@ figure {
         align-self: center;
         justify-items: center;
         margin-top: 200px;
+    }
+}
+
+@media screen and (max-width: 520px){
+    .main__wrapper {
+        display: flex;
+        flex-direction: column;
     }
 }

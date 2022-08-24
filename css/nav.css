@@ -204,8 +204,8 @@ li .navbar__container_menu_link a {
 
     .navbar__list {
         /* flex-direction: column;
-        flex-wrap: wrap; */
-        flex-flow: column wrap;
+        flex-wrap: wrap;
+        /*flex-flow: column wrap;*/
         align-items: center;
         justify-content: space-evenly;
         flex-basis: 49%;

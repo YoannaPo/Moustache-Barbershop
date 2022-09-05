@@ -374,25 +374,48 @@ a .modal__button {
 
 @media screen and (max-width: 520px) {
 
+    .form__container {
+        grid-area: fo;
+    }
+
+    label, input {
+        width: 90%;
+    }
+
+    .input__button {
+        width: 100%;
+    }
+
     .contact__wrapper {
         display: flex;
         flex-direction: column;
         justify-content: center;
-        align-items: center;
+        /**align-items: center; **/ 
 
     }
+
+    .contact__decription {
+        margin-top: 50px;
+        font-size: 95%;
+    }
+
+    /* .contact__phone {
+        font-size: 80%;
+        margin-top: 100px;
+    } */
 
     .map {
         min-height: 300px;
     }
 
-    .map__wrapper{
+    .map__wrapper {
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
 
     }
+
 
     .map__img {
         min-width: 40%;

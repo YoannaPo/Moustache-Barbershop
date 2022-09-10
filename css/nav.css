@@ -4,9 +4,6 @@
     grid-area: n;
     /*
 grid-area: 1/1/1/13;*/
-
-
-    /*background-color: #6A7B8B;*/
     background-color:#478242;
 
     position: relative;
@@ -203,6 +200,12 @@ li .navbar__container_menu_link a {
 
     .header {
         margin-top: 100px;
+    }
+
+    .header__logoImg {
+        margin-top: 50px;
+        height: 40%;
+        width: 50%;
     }
 }
 

@@ -160,14 +160,14 @@ li .navbar__container_menu_link a {
 
 @media screen and (max-width: 930px) {
     .navbar {
-        height: 150px;
+        height: 200px;
     }
 
     .navbar__inner {
         margin: 0;
         padding: 0;
         width: 100%;
-        height: 100%;
+        height: 200px;
         display: flex;
         flex-direction: column;
         justify-content: space-around;
@@ -180,14 +180,18 @@ li .navbar__container_menu_link a {
         flex-direction: column;
         justify-content: space-around;
         align-self: center;
-        flex-basis: 20%;
+        flex-basis: 30%;
         /*flex-wrap: wrap; */
     }
 
     .navbar__logoImg {
         margin: 0 auto;
-        width: 50px;
-        height: 70px;
+        width: 60px;
+        height: 80px;
+        display: flex;
+        justify-content: center;
+        align-self: center;
+
     }
 
     .navbar__list {
@@ -206,7 +210,7 @@ li .navbar__container_menu_link a {
 
     .navbar__logo {
         width: 30%;
-        flex-basis: 48%;
+        flex-basis: 30%;
     }
 
     .navbar__list {
@@ -220,6 +224,9 @@ li .navbar__container_menu_link a {
 
     .navbar__listItem {
         width: 60%;
+        height: 30px;
+        margin-bottom: 5px;
+
     }
 
     .navbar__link {

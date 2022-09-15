@@ -387,6 +387,7 @@ figure {
     }
 
     .hero-section__divider {
+        margin-right: 0;
         margin-bottom: 50px;
     }
 
@@ -407,7 +408,7 @@ figure {
 
 
     .program__header {
-        margin-top: 900px;
+        margin-top: 1550px;
         display: flex;
         flex-wrap: wrap;
         align-self: center;
@@ -462,19 +463,27 @@ figure {
     }
 
     .main__subheading {
-        margin-top: 1200px;
-    }    
+        margin-top: 1050px;
+    }
+    
+    .hero-section {
+        display: flex;
+        flex-direction: column;
+    }
 
     .hero-section__wrapper {
         width: 65%;
+        align-self: center;
+        justify-items: center;
     }
 
     .hero-section__first {
         margin-top: 350px;
     }
+    
 
     .program__header {
-        margin-top: 1200px;
+        margin-top: 1150px;
         align-self: center;
         justify-content: center;
     }

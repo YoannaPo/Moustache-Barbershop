@@ -78,7 +78,7 @@ p {
 .form__container {
     position: relative;
     grid-area: fo;
-    grid-area: 3/4/3/11;
+    grid-area: 3/3/3/10;
     min-height: 700px;
 }
 
@@ -149,7 +149,7 @@ input .error {
 
     /*background-color: #6A7B8B;*/
     background-color: #478242;
-    width: 332px;
+    width: 375px;
     height: 77px;
     font-size: 26px;
     color: #ffffff;
@@ -372,6 +372,50 @@ a .modal__button {
     }
 }
 
+/*Media queries*/
+@media screen and (max-width: 930px) {
+
+    form {
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+
+    /* label, input {
+        width: 68%;
+    } */
+
+    /* input {
+        margin: 0 auto;
+    } */
+
+    label, input {
+        width: 90%;
+    }
+
+    .input__button {
+        width: 97%;
+    }
+
+
+    .contact__wrapper {
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+
+    }
+
+    .contact__heading {
+        margin-bottom: 50px;
+    }
+
+    .contact__decription {
+        margin-top: 50px;
+    }
+
+}
+
+
 @media screen and (max-width: 520px) {
 
     .form__container {
@@ -394,9 +438,14 @@ a .modal__button {
 
     }
 
+
+    .contact__heading {
+        margin-bottom: 50px;
+    }
+
     .contact__decription {
         margin-top: 50px;
-        font-size: 95%;
+        font-size: 97%;
     }
 
     /* .contact__phone {

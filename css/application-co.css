@@ -85,6 +85,8 @@ p {
 form#send {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
     max-width: 765px;
     margin: 0 auto;
     padding: 15px;
@@ -149,11 +151,12 @@ input .error {
 
     /*background-color: #6A7B8B;*/
     background-color: #478242;
-    width: 375px;
+    width: 475px;
     height: 77px;
     font-size: 26px;
     color: #ffffff;
 
+    margin: 0 auto;
     padding: 20px;
     letter-spacing: 2px;
     cursor: pointer;
@@ -306,7 +309,7 @@ a .modal__button {
 
 /*Contact details section*/
 .contact {
-    margin-top: 850px;
+    margin-top: 950px;
     position: relative;
     grid-area: c;
     grid-area: 4/2/4/12;

@@ -471,6 +471,10 @@ figure {
         flex-direction: column;
     }
 
+    .hero__wrapper {
+        margin-top: 1000px;
+    }
+
     .hero-section__wrapper {
         width: 65%;
         align-self: center;
@@ -480,12 +484,20 @@ figure {
     .hero-section__first {
         margin-top: 350px;
     }
+
+    .hero__button {
+        margin-top: 150px;
+    }
     
 
     .program__header {
         margin-top: 1150px;
         align-self: center;
         justify-content: center;
+    }
+
+    .program__imgWrapper {
+        margin-top: 150px;
     }
 
     .programText__supplement {

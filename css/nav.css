@@ -23,7 +23,6 @@ grid-area: 1/1/1/13;*/
 .navbar__inner {
    position: absolute;
 
-
     overflow: hidden;
 
     width: 100%;
@@ -38,9 +37,7 @@ grid-area: 1/1/1/13;*/
     justify-content: space-evenly;
 }
 
-/* .navbar__logo {
 
-} */
 .navbar__logo {
     display: flex;
     flex-direction: column;
@@ -85,8 +82,6 @@ grid-area: 1/1/1/13;*/
     color: rgb(121, 158, 135);
     background-color: rgba(9, 10, 1, 0.7);
 }
-
-
 
 /*
 .navbar__container_grouped {
@@ -138,9 +133,6 @@ li .navbar__container_menu_link a {
 
 }
 */
-
-
-
 
 
 
@@ -250,5 +242,5 @@ li .navbar__container_menu_link a {
         justify-content: space-evenly;
     }
 
-
 }
+

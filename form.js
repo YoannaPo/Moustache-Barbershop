@@ -8,7 +8,7 @@ const errorsEl = document.querySelector('form#send .errors');
 //Checking for our form
 sendForm.addEventListener('submit', validateSendForm);
 
-//Sprawia, ze nie mozna submit pustych labeli
+//Preventing from submitting empty labels
 function validateSendForm (e) {
     e.preventDefault();
 
@@ -152,6 +152,18 @@ function clearForm() {
 //     sendForm["message"].value = "";
     
 // });
+
+//Fixed nav
+// const navbar = document.querySelector('.navbar')
+// window.addEventListener('scroll', fixNav)
+
+// function fixNav() {
+//     if (window.scrollY > navbar.offsetHeight + 150) {
+//         navbar.classList.add('active')
+//     } else {
+//         navbar.classList.remove('active')
+//     }
+// }
 
 
 

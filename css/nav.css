@@ -8,6 +8,18 @@ grid-area: 1/1/1/13;*/
     position: relative;
 }
 
+/* Fixed nav */
+/* .navbar.active {
+    background-color: #fff;
+    box-shadow:  0 2px 10px rgba(0,0,0,0.3);
+}
+.navbar.active a {
+    color: #000;
+}
+.navbar.active .navbar__inner{
+    padding: 10px;
+} */
+
 .navbar__inner {
    position: absolute;
 

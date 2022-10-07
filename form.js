@@ -1,5 +1,4 @@
 
-
 //Form
 
 const sendForm = document.querySelector('form#send');

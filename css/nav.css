@@ -5,12 +5,13 @@
     /*
 grid-area: 1/1/1/13;*/
     background-color:#478242;
-
     position: relative;
 }
 
 .navbar__inner {
-    position: absolute;
+   position: absolute;
+
+
     overflow: hidden;
 
     width: 100%;

@@ -22,10 +22,13 @@ I modified the received layout, and designed the logo and the entire brand ident
 The used colour palette represents modernity and reflects a healthy lifestyle in a fast-moving world. 
 I have decided on green as it is a leading colour that user feels confident with, and it alludes to the freshness, the recent opening of the Moustache Barbershop company, and its eco-friendly approach. 
 
-<span style="color:green">** Green the dominant colour **</span>
- -  was chosen to distinguish itself from the competition and emphasize the innovative approach of barbers. Mustache Barbershop experts use only natural products and support less waste movement. Also, their website was built to consume as little energy as possible (which I achieved, and it's constantly monitored). 
+<strong style="color: green; opacity: 0.80;">Green the dominant colour</strong>
 
-I supplemented the visual identification with a minimalist barber profile for social platforms. In this way, I married the freshness approach with traditional barber branding.
+ -  was chosen to distinguish itself from the competition and emphasize the innovative approach of barbers. Mustache Barbershop experts use only natural products and support less waste movement. 
+ <strong>Also, their website was built to consume as little energy as possible (which I achieved, and it's constantly monitored).</strong> 
+
+I supplemented the visual identification with a minimalist barber profile for social platforms. 
+In this way, I married the freshness approach with traditional barber branding.
 
 
 

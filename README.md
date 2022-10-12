@@ -16,19 +16,19 @@ The website is based on the layout I received in Figma
 
 
 ## General info
-A website that uses only **HTML**, CSS and JavaScript.
-I modified the received layout, and designed the logo and the entire brand identification. All the details are included in the Brand Book I prepared.
+A website that uses only **HTML**, **CSS** and **JavaScript**.
+I modified the received layout, and designed the logo and the entire brand identification. <br />**All the details are included in the Brand Book I prepared.**
 
 The used colour palette represents modernity and reflects a healthy lifestyle in a fast-moving world. 
 I have decided on green as it is a leading colour that user feels confident with, and it alludes to the freshness, the recent opening of the Moustache Barbershop company, and its eco-friendly approach. 
 
-<strong style="color: green; opacity: 0.80;">Green the dominant colour</strong>
+<strong style="color: green; opacity: 0.98;">Green the dominant colour</strong>
 
  -  was chosen to distinguish itself from the competition and emphasize the innovative approach of barbers. Mustache Barbershop experts use only natural products and support less waste movement. 
- <strong>Also, their website was built to consume as little energy as possible (which I achieved, and it's constantly monitored).</strong> 
+ <br/><strong>Also, their website was built to consume as little energy as possible (which I achieved, and it's constantly monitored).</strong> 
 
 I supplemented the visual identification with a minimalist barber profile for social platforms. 
-In this way, I married the freshness approach with traditional barber branding.
+<br/>In this way, I married the freshness approach with traditional barber branding.
 
 
 

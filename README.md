@@ -17,7 +17,7 @@ The website is based on the layout I received in Figma
 
 ## General info
 A website that uses only **HTML**, **CSS** and **JavaScript**.
-I modified the received layout, and **designed the logo and the entire brand identification.** <br />**All the details are included in the [Brand Book](#brand-bok) I prepared.**
+I modified the received layout, and **designed the logo and the entire brand identification.** <br />**All the details are included in the * [Brand Book](#brand-bok) I prepared.**
 
 The used colour palette represents modernity and reflects a healthy lifestyle in a fast-moving world. 
 I have decided on green as it is a leading colour that user feels confident with, and it alludes to the freshness, the recent opening of the Moustache Barbershop company, and its eco-friendly approach. 

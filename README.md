@@ -31,7 +31,7 @@ I supplemented the visual identification with a minimalist barber profile for so
 <br/>In this way, **I married the freshness approach with traditional barber branding.**
 
 
-## brand-book
+## Brand Book
 <h2 align="center">Brand Book</h2> 
 <table bordercolor="#66b2b2">
   

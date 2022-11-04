@@ -6,11 +6,13 @@
 @font-face {
     font-family: 'AvenirNext-Regular';
     src: url("fonts/AvenirNextLTPro-Regular.otf") format("opentype");
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'AvenirNext-Bold';
     src: url("fonts/AvenirNextLTPro-Bold.otf") format("opentype");
+    font-display: swap;
 }
 
 

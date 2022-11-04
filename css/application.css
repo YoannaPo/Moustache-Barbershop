@@ -6,11 +6,15 @@
 @font-face {
     font-family: 'AvenirNext-Regular';
     src: url("fonts/AvenirNextLTPro-Regular.otf") format("opentype");
+    font-display: swap;
+    /* way to avoid showing invisible text while custom 
+    fonts load is to temporarily show a system font by  font-display: swap*/
 }
 
 @font-face {
     font-family: 'AvenirNext-Bold';
     src: url("fonts/AvenirNextLTPro-Bold.otf") format("opentype");
+    font-display: swap;
 }
 
 

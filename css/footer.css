@@ -2,7 +2,8 @@
 
 .footer {
     grid-area: f;
-    background-color:#478242;
+    /*background-color:#478242;*/
+    background-color: #356331;
     height: 142px;
     position: relative;
 }

@@ -149,6 +149,27 @@ p {
     height: 756px;
 }
 
+.section__imgContainer-Contest {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.section__img-Contest {
+    width: 940px;
+    height: 788px;
+}
+
+.section__heading-Contest {
+    color: #5C5B5B;
+    padding: 42px;
+   
+    justify-content: center;
+    align-items: center;
+}
+
 .section__textContainer {
     display: flex;
     flex-direction: column;

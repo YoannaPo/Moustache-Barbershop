@@ -232,6 +232,7 @@ figure {
     margin-top: 25px;
     margin-bottom: 50px;
     color: #ffffff;
+    /*color: #242424;*/
 }
 
 .hero-section__description:hover {
@@ -261,7 +262,8 @@ figure {
 .hero__linkText {
     font-size: 26px;
     font-family: 'AvenirNext-Bold';
-    color: #ffffff;
+    /*color: #ffffff;*/
+    color: #242424;
 }
 
 /*Od tego zaczac*/

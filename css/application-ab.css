@@ -165,11 +165,20 @@ p {
 .section__heading-Contest {
     color: #5C5B5B;
     padding: 42px;
+    display: flex;
    
     justify-content: center;
     align-items: center;
+    text-align: center;
+    line-height: 2em;
 }
 
+.section__container-margin {
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+    
+}
 .section__textContainer {
     display: flex;
     flex-direction: column;
@@ -187,6 +196,7 @@ p {
     color: #5C5B5B;
     padding: 44px;
 }
+
 
 
 /*Divider*/

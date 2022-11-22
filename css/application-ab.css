@@ -151,7 +151,7 @@ p {
 
 .section__imgContainer-Contest {
     display: flex;
-    flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
@@ -271,13 +271,25 @@ p {
 
         
     } */
+    .section__imgContainer-Contest {
+        margin-top: 50px;
+        display: flex;
+        flex-direction: column;
+    }
 
-
-    .section__img-Contest {
-        margin-top: 300px;
+    /* .section__img-Contest {
         min-width: 200px;
         min-height: 100px;
+    } */
+
+    .section__img-Contest {
+        margin-top: 700px;
+        width: 407px;
+        height: 407px;
     }
+
+
+
 
     .section__heading-Contest {
         margin-top: 50px;

@@ -29,7 +29,10 @@ I have decided on green as it is a leading colour that user feels confident with
 
 I supplemented the visual identification with a minimalist barber profile for social platforms. 
 <br/>In this way, **I married the freshness approach with traditional barber branding.**
-
+You can see the results in the contest ad and  Brand Book I created.
+ <br />
+          <img src="https://github.com/YoannaPo/Moustache-Barbershop/blob/main/assets/concours.png" width="70%" alt="t-shirt, cosmetics awards in the contest"/>
+      <br />
 
 ## Brand Book
 <h2 align="center">Brand Book</h2> 

@@ -6,7 +6,7 @@
 * [Process](#process)
 * [General info](#general-info)
 * [Contest Advert](#contest-advert)
-
+* [Brand Book](#brand-book)
 * [Technologies](#technologies)
 * [Pages](#pages)
 * [Status](#status)

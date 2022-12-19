@@ -314,7 +314,8 @@ p {
 
         min-width: 150px;
         height: 400px;
-        margin-top: 1100px;
+        /*margin-top: 1100px;*/
+        margin-top: 200px;
     }
 
     .section__textContainer {

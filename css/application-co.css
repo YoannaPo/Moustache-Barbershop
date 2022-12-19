@@ -288,7 +288,7 @@ a .modal__button {
 
     margin-top: 10px;
     width: auto;
-    -webkit-appearance: none;
+    /*-webkit-appearance: none;*/
     border: none;
     outline: none;
     border-radius: 20px;

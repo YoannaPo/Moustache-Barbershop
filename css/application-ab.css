@@ -130,7 +130,7 @@ p {
 .section__container {
     margin-top: 750px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 .section__imgContainer {
@@ -158,8 +158,9 @@ p {
 
 
 .section__img-Contest {
-    width: 940px;
-    height: 788px;
+    width: 840px;
+    height: 688px;
+    margin-top: 400px;
 }
 
 .section__heading-Contest {
@@ -283,7 +284,7 @@ p {
     } */
 
     .section__img-Contest {
-        margin-top: 700px;
+        margin-top: 200px;
         width: 407px;
         height: 407px;
     }
@@ -303,7 +304,6 @@ p {
         flex-direction: column;
         margin-top: 0;
     }
-
 
 
     .section__imgContainer {
@@ -353,8 +353,10 @@ p {
     }
 
     .main__img {
+        display: flex;
+        align-self: center;
         margin-top: 250px;
-        margin-left: 80px;
+        
         width: 75%;
         height: 427px;
     }
@@ -374,5 +376,9 @@ p {
 
     .section__heading {
         margin-top: 150px;
+    }
+
+    .section__img-Contest {
+        margin-top: 600px;
     }
 }
